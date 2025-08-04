@@ -24,13 +24,15 @@ This project is a Machine Learning-powered web application that predicts an indi
 | `personality_prediction.pkl` | Pickled model with scaler for prediction |
 
 ---
+
 ## 📥 Dataset Source
 **Extrovert vs Introvert Behavior Data**
 Source: Kaggle dataset by Rakesh Kapilavai
 Available at: Kaggle - Extrovert vs Introvert Behavior Data(https://www.kaggle.com/datasets/rakeshkapilavai/extrovert-vs-introvert-behavior-data) 
 
-
 This dataset captures key behavioral and social indicators associated with extroversion and introversion, making it a valuable resource for ML classification tasks.
+
+---
 
 ## 🧪 Input Features
 
