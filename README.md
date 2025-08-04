@@ -4,12 +4,6 @@ This project is a Machine Learning-powered web application that predicts an indi
 
 ---
 
-## 🚀 Live Demo
-
-
-
----
-
 ## 📌 Features
 
 - 🔮 Predicts personality type: **Introvert** or **Extrovert**
